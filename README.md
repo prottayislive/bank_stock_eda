@@ -1,6 +1,8 @@
 # Exploratory Data Analysis of U.S Bank Stocks
 [view code and visualisations](https://nbviewer.org/github/prottayislive/bank_stock_eda/blob/main/us_bank_stocks_eda.ipynb)
-_Please use the above link to open the notebook in nbviewer to view the plotly plots_
+
+
+_Please use this link to view the rendered notebook in nbviewer_
 
 ### 1. Introduction
 
