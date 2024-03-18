@@ -1,4 +1,4 @@
-# Project Report: Exploratory Data Analysis of Bank Stocks
+# Exploratory Data Analysis of U.S Bank Stocks
 [view code](https://github.com/prottayislive/bank_stock_eda/blob/main/us_bank_stocks_eda.ipynb)
 
 ### 1. Introduction
